@@ -7404,6 +7404,7 @@ dependencies = [
  "menu",
  "project",
  "schemars",
+ "search",
  "serde",
  "serde_json",
  "settings",
